@@ -1,1 +1,2 @@
-VimCrypt~03!ÿÌ¼ZÄ²ä®BÃ›šA;·BÈåÓİ	 o¥ÊÂpÀà…P#Õ¦c6µy¿–R
+#!/bin/bash
+cat /etc/passwd
