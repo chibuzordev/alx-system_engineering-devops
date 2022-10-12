@@ -1,1 +1,1 @@
-My README
+My new README for Shell permissions
